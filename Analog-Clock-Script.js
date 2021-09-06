@@ -33,3 +33,4 @@ function updateClock () {
 
 // Sets interval method
 var interval = setInterval(updateClock, 1000);
+
